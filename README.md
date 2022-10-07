@@ -7,3 +7,6 @@ mergesort project2
 [6] [11,21] -- [8] [12,22]
 [6,11,21] -- [8,12,22]
 [6,8,11,12,22]
+
+Big-O gösterimini yazınız.
+O(nlogn)
